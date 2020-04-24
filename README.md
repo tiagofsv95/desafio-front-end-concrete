@@ -8,7 +8,7 @@
 <br/>
 <p>Desafio que tem como proposta implementar uma aplicação client-side, que consulte a API do GitHub e mostre os repositórios de um determinado usuário. Esta aplicação deve funcionar nos navegadores mais recentes do mercado.<p/>
 
-- Ao buscar um usuário pelo login do github, diciona para uma pagina de resultado de busca caso o usuario tenha sido encontrado, ou para uma mensagem amigavel de usuario não encontrado.
+- Ao buscar um usuário pelo login do github, redireciona para uma pagina de resultado de busca caso o usuario tenha sido encontrado, ou para uma mensagem amigavel de usuario não encontrado.
 
 <p>Foi usado como framework o reack</p>
 
